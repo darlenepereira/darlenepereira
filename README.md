@@ -1,7 +1,7 @@
 # Hi, I'm Darlene! :D
 
-[![Linkedin](https://www.linkedin.com/in/darlene-pereira/)
-[![Behance](https://www.behance.net/darleneplima)
+[Linkedin](https://www.linkedin.com/in/darlene-pereira/)
+[Behance](https://www.behance.net/darleneplima)
 
 ### About me
 I'm a {Frontend and Web Designer} developer.
