@@ -1,9 +1,9 @@
 #  Hi, I'm Darlene!👋
 
 ### About me
--I'm from Brazil🇧🇷.
--I'm a {Frontend and Web Designer} developer.
--💻: Ubuntu, Github, HTML, CSS3, JavaScript, ReactJs, UI Design, Photoshop, Illustrator and Figma.
+- I'm from Brazil🇧🇷.
+- I'm a {Frontend and Web Designer} developer.
+- 💻: Ubuntu, Github, HTML, CSS3, JavaScript, ReactJs, UI Design, Photoshop, Illustrator and Figma.
 
 
 Reach me out 👇🏼
