@@ -11,7 +11,7 @@
 ### ***Incluir uma frase***
 
 Reach me out 👇🏼
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlene-pereira/)](https://www.linkedin.com/in/darlene-pereira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Darlene%20Pereira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlene-pereira/)](https://www.linkedin.com/in/darlene-pereira/) 
 
 - [Behance](https://www.behance.net/darleneplima)
 
