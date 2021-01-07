@@ -4,17 +4,15 @@
 - I'm from Brazil🇧🇷.
 - I'm a {Frontend and Web Designer} developer.
 - 💻: Ubuntu, Github, Photoshop, Illustrator and Figma.🚀 
-
 - 🎓Front-end training by BootCamp [Reprograma](https://reprograma.com.br/).
 - 📚 I'm Learning: Javascript,React, html, css, Nodejs, bootstrap, UX, UI Design.
 - 🎯 I'm interested: TypeScript.
 
-O aprendizado é continuo e o próximo nível nunca será o ultimo 
-
 ### ***Incluir uma frase***
 
 Reach me out 👇🏼
-- [Linkedin](https://www.linkedin.com/in/darlene-pereira/)
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlene-pereira/)](https://www.linkedin.com/in/darlene-pereira/) 
+
 - [Behance](https://www.behance.net/darleneplima)
 
 
