@@ -1,4 +1,9 @@
 #  Hi, I'm Darlene!👋
+
+#### About me
+I'm from brasil
+
+Reach me out 👇🏼
 - [Linkedin](https://www.linkedin.com/in/darlene-pereira/)
 - [Behance](https://www.behance.net/darleneplima)
 
