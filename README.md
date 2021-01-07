@@ -8,7 +8,7 @@
 - 📚 I'm Learning: Javascript,React, html, css, Nodejs, bootstrap, UX, UI Design.
 - 🎯 I'm interested: TypeScript.
 
-### ***Incluir uma frase***
+### ***Ajudo mulheres a desenvolverem suas ideias e aprendo com elas! 💜**🚀
 
 Reach me out 👇🏼
 - [![Linkedin Badge](https://img.shields.io/badge/-Darlene%20Pereira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlene-pereira/)](https://www.linkedin.com/in/darlene-pereira/) [![Behance Badge](https://img.shields.io/badge/-Darlene%20Pereira-6633cc?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/darleneplima)](https://www.behance.net/darleneplima) [![Gmail Badge](https://img.shields.io/badge/-darlene92pereira@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darlene92pereira@gmail.com)](mailto:darlene92pereira@gmail.com)
