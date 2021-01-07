@@ -11,7 +11,8 @@
 ### ***Incluir uma frase***
 
 Reach me out 👇🏼
-[![Linkedin Badge](https://img.shields.io/badge/-Darlene%20Pereira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlene-pereira/)](https://www.linkedin.com/in/darlene-pereira/) 
+- [![Linkedin Badge](https://img.shields.io/badge/-Darlene%20Pereira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlene-pereira/)](https://www.linkedin.com/in/darlene-pereira/) 
+- [![Behance Badge](https://img.shields.io/badge/-Darlene%20Pereira-6633cc?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/darleneplima)](https://www.behance.net/darleneplima) 
 
 - [Behance](https://www.behance.net/darleneplima)
 
