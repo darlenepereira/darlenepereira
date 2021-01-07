@@ -1,4 +1,4 @@
-# Hi, I'm Darlene!
+#  Hi, I'm Darlene!👋
 - [Linkedin](https://www.linkedin.com/in/darlene-pereira/)
 - [Behance](https://www.behance.net/darleneplima)
 
