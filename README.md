@@ -3,8 +3,15 @@
 ### About me
 - I'm from Brazil🇧🇷.
 - I'm a {Frontend and Web Designer} developer.
-- 💻: Ubuntu, Github, HTML, CSS3, JavaScript, ReactJs, UI Design, Photoshop, Illustrator and Figma.
+- 💻: Ubuntu, Github, Photoshop, Illustrator and Figma.🚀 
 
+- 🎓Front-end training by BootCamp [Reprograma](https://reprograma.com.br/).
+- 📚 I'm Learning: Javascript,React, html, css, Nodejs, bootstrap, UX, UI Design.
+- 🎯 I'm interested: TypeScript.
+
+O aprendizado é continuo e o próximo nível nunca será o ultimo 
+
+### ***Incluir uma frase***
 
 Reach me out 👇🏼
 - [Linkedin](https://www.linkedin.com/in/darlene-pereira/)
