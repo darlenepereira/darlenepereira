@@ -2,7 +2,7 @@
 
 ### About me
 - I'm from Brazil🇧🇷.
-- 🎂 28
+- 🎂 30
 - I'm a {Frontend and Web Designer} developer.
 - 💻: Ubuntu, Github, Photoshop, Illustrator and Figma.🚀 
 - 🎓Front-end training by BootCamp [Reprograma](https://reprograma.com.br/).
